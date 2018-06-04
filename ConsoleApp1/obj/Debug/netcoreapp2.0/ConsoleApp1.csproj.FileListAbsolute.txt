@@ -1,0 +1,11 @@
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\wicresoft\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
